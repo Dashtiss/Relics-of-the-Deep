@@ -1,0 +1,13 @@
+{
+  "itemGroup.relicsofthedeep": "Example Mod Tab",
+  "block.relicsofthedeep.example_block": "Example Block",
+  "item.relicsofthedeep.example_item": "Example Item",
+
+  "relicsofthedeep.configuration.title": "Relics of the Deep Configs",
+  "relicsofthedeep.configuration.section.relicsofthedeep.common.toml": "Relics of the Deep Configs",
+  "relicsofthedeep.configuration.section.relicsofthedeep.common.toml.title": "Relics of the Deep Configs",
+  "relicsofthedeep.configuration.items": "Item List",
+  "relicsofthedeep.configuration.logDirtBlock": "Log Dirt Block",
+  "relicsofthedeep.configuration.magicNumberIntroduction": "Magic Number Text",
+  "relicsofthedeep.configuration.magicNumber": "Magic Number"
+}
